@@ -1,5 +1,5 @@
 ### My Ecommerce Dashboard
-![Ecommerce Dashboard]("https://github.com/jayalaxmimudaliar/Ecommerce-Dashboard/blob/master/Ecommerce%20Dashboard.png")
+![Ecommerce Dashboard](https://github.com/jayalaxmimudaliar/Ecommerce-Dashboard/blob/master/Ecommerce%20Dashboard.png)
 ## 🔍 Overview
 
 This interactive **Power BI dashboard** visualizes key metrics related to ecommerce sales, offering clear insights into regional performance, product category trends, and monthly profitability.
